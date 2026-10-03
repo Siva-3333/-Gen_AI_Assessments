@@ -1,1 +1,1 @@
-# 1_word_embeddings.ipynb
+Gen_AI assements
